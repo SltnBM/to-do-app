@@ -26,3 +26,6 @@ cd to-do-app
 ```
 3. Open the index.html file in your browser
 4. No backend required. This is a static web app.
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
