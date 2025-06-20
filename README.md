@@ -1,49 +1,28 @@
 # To-Do App
-
-A simple and lightweight task management app built with **HTML**, **CSS**, and **JavaScript**. This app runs entirely in the browser without using any database or web storage, so all your tasks are stored temporarily in memory and will be lost when you refresh the page.
-
----
+A simple and lightweight task management app built with **HTML**, **CSS**, and **JavaScript**.  
+This app runs in the browser without database or storage. Tasks will be lost when the page is refreshed.
 
 ## Features
+- Add new tasks with a title and due date
+- Mark tasks as completed or uncompleted
+- Undo completed tasks back to uncompleted
+- Delete completed tasks
+- Clean and minimal user interface
 
-- Add new tasks with a title and due date  
-- Mark tasks as completed or uncompleted  
-- Undo completed tasks back to uncompleted  
-- Delete completed tasks  
-- Clean and minimal user interface  
 
----
+## Technologies Used
+- HTML for page structure
+- CSS for styling
+- JavaScript for interactivity and logic
 
 ## How to Use
-
-1. Open the `index.html` file in your favorite web browser.  
-2. Enter the task title and due date.  
-3. Click the **Submit** button to add your task.  
-4. Click the **check** button to mark a task as completed.  
-5. Click the **undo** button to move a completed task back to uncompleted.  
-6. Click the **trash** button to delete a completed task.  
-
----
-
-## Built With
-
-- HTML  
-- CSS  
-- JavaScript  
-
----
-
-## Installation
-
-### Clone this repository
-You can downloade or clone this repository, if you want download you can touch the button with text code and download zip
+1. Clone this repository or download the ZIP file
 ```bash
 git clone https://github.com/SltnBM/to-do-app.git
+```
+2. Navigate to the project directory
+```bash
 cd to-do-app
 ```
-
-### Running apps
-```bash
-start index.html
-```
-
+3. Open the index.html file in your browser
+4. No backend required. This is a static web app.
