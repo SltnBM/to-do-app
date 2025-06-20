@@ -9,11 +9,28 @@ This app runs in the browser without database or storage. Tasks will be lost whe
 - Delete completed tasks
 - Clean and minimal user interface
 
-
 ## ⚙️ Technologies Used
 - HTML for page structure
 - CSS for styling
 - JavaScript for interactivity and logic
+
+## 📁 Project Structure
+```plaintext
+📂 to-do-app/
+├── 📂 assets/        # Icon assets (SVG)
+│   ├── check-outline.svg
+│   ├── check-solid.svg
+│   ├── trash-fill.svg
+│   ├── trash-outline.svg
+│   └── undo-outline.svg
+├── 📂 css/
+│   └── style.css     # Styling for the app
+├── 📂 js/
+│   └── script.js     # App logic
+├── 📄 index.html     # Main HTML file
+├── 📄 .gitignore
+└── 📄 README.md
+```
 
 ## 🚀 How to Use
 1. Clone this repository or download the ZIP file
