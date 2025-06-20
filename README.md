@@ -1,8 +1,8 @@
-# To-Do App
+# ✅ To-Do App
 A simple and lightweight task management app built with **HTML**, **CSS**, and **JavaScript**.  
 This app runs in the browser without database or storage. Tasks will be lost when the page is refreshed.
 
-## Features
+## ✨ Features
 - Add new tasks with a title and due date
 - Mark tasks as completed or uncompleted
 - Undo completed tasks back to uncompleted
@@ -10,12 +10,12 @@ This app runs in the browser without database or storage. Tasks will be lost whe
 - Clean and minimal user interface
 
 
-## Technologies Used
+## ⚙️ Technologies Used
 - HTML for page structure
 - CSS for styling
 - JavaScript for interactivity and logic
 
-## How to Use
+## 🚀 How to Use
 1. Clone this repository or download the ZIP file
 ```bash
 git clone https://github.com/SltnBM/to-do-app.git
@@ -27,8 +27,8 @@ cd to-do-app
 3. Open the index.html file in your browser
 4. No backend required. This is a static web app.
 
-## Connect with Me
+## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
 
-## License
+## 📄 License
 Free to use for personal and educational purposes.
