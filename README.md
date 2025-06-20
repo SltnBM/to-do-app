@@ -29,3 +29,6 @@ cd to-do-app
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
+## License
+Free to use for personal and educational purposes.
