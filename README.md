@@ -60,4 +60,4 @@ cd to-do-app
 ---
 
 ## 📄 License
-Feel free to use this project for personal or educational purposes.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
